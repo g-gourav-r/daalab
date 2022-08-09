@@ -18,6 +18,7 @@ Sorted Array:
 
 Time Complexity in ms for n=15 is: 0.0115
 
+---
 
 [Program 2 - Merge Sort](https://github.com/g-gourav-r/daalab/blob/main/P2%20-%20Mergesort.java)
 
@@ -38,6 +39,7 @@ Sorted Array (Merge Sort):
 
 Time Complexity (ms) for n = 20 is : 0.6351
 
+---
 
 [Program 3 - Warshall's algorithm](https://github.com/g-gourav-r/daalab/blob/main/P3%20-%20Warshalls.java)
 
@@ -70,6 +72,7 @@ The Transitive Closure Matrix is:
 
 1 1 1 1
 
+---
 
 
 [Program 4 - Dijkstra’s algorithm](https://github.com/g-gourav-r/daalab/blob/main/P4%20-%20Dijkstras.java)
@@ -108,6 +111,7 @@ The shortest distance from source vertex 1 to all other vertices are:
 
 5:13
 
+---
 
 [Program 5 - Kruskal's](https://github.com/g-gourav-r/daalab/blob/main/P5%20-%20Krukals.java)
 
@@ -143,6 +147,7 @@ Edge 4:(1,4) =30
 
 Minimum cost for the Spanning Tree is:70
 
+---
 
 [Program 6 - Greedy Knapsack](https://github.com/g-gourav-r/daalab/blob/main/P6%20-%20Knapsack%20greedy.java)
 
@@ -186,6 +191,7 @@ weight profit Fraction
 
 Total profit is = 55.333332
 
+---
 
 [Program 7 - Dynamic Kanpsack](https://github.com/g-gourav-r/daalab/blob/main/P7%20-%20Knapsack%20Dynamic.java)
 
@@ -212,6 +218,7 @@ Items selected are =
 
 Optimal solution (Maximum Profit) = 100
 
+---
 
 [Program 8 - Sum of subsets](https://github.com/g-gourav-r/daalab/blob/main/P8%20-%20Sum%20of%20subsets.java)
 
@@ -231,6 +238,8 @@ Enter the max. subset value(d):
 The subsets are: 
 1 2 6 
 1 8
+
+---
 
 [Program 9 - Prims algorithm](https://github.com/g-gourav-r/daalab/blob/main/P9%20-%20Prims%20algo.java)
 
@@ -263,6 +272,7 @@ Edge4:(3,5)cost:10
 
 Minimun cost of the Spanning Tree is:70
 
+---
 
 [Program 10 - Floyds](https://github.com/g-gourav-r/daalab/blob/main/P10%20-%20Flyods.java)
 
@@ -295,3 +305,5 @@ The All Pair Shortest Path Matrix is:
 2 -1 -5 0 -2
 
 8 5 1 6 0
+
+---
