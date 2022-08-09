@@ -1,4 +1,4 @@
-# daalab
+# Desing and Analysis of Algorithms
 
 [Program 1 - Quick Sort](https://github.com/g-gourav-r/daalab/blob/main/P1-%20Quciksort.java)
 
