@@ -37,9 +37,6 @@ tc[j][k] = true;
 public void displayTC()
 {
 System.out.println("\nTransitive closure :\n");
-//System.out.print(&quot; &quot;);
-//for (int v = 0; v &lt; V; v++)
-//System.out.print(&quot; &quot; + v );
 System.out.println();
   
 for (int v = 0; v < V; v++)
