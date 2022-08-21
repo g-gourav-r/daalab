@@ -155,42 +155,15 @@ OUTPUT:
 
 ********* KNAPSACK USING GREEDY METHOD*******
 
-Enter number of objects: 
-
-7
-
-Enter the max capacity of knapsack: 
-
+Enter the max capacity of the Knapsack :
 15
-
-Enter Weights: 
-
+Enter the weights of the object
 2 3 5 7 1 4 1
-
-Enter Profits: 
-
+Enter the profits of the object
 10 5 15 7 6 18 3
-
-The Solution is: 
-
-weight profit Fraction
-
-1.0 6.0 1.0
-
-2.0 10.0 1.0
-
-4.0 18.0 1.0
-
-5.0 15.0 1.0
-
-1.0 3.0 1.0
-
-3.0 5.0 0.6666667
-
-7.0 7.0 0.0
-
+The Solution vector, x[]: 
+1.0 1.0 1.0 1.0 1.0 0.6666667 0.0 
 Total profit is = 55.333332
-
 ---
 
 [Program 7 - Dynamic Kanpsack](https://github.com/g-gourav-r/daalab/blob/main/P7%20-%20Knapsack%20Dynamic.java)
